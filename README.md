@@ -6,5 +6,5 @@ Although current Text-To-Speech (TTS) models are able to generate high-quality s
 
 # EmoRemap_demos
 
-Our Demo Page: <https://lemon-ustc.github.io/EmoRemap-demo/>
+Our Demo Page: <https://lemon-ustc.github.io/demo/>
 
